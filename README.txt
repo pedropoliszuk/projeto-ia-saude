@@ -1,9 +1,5 @@
-# Exported dataset for Pedro Poliszuk / projeto-curso-ia-saude-do
+# IA Saúde
 
-To import this data into a new Edge Impulse project, either use:
+https://studio.edgeimpulse.com/public/632871/live
 
-* The Edge Impulse CLI (https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-overview), run with:
-
-    edge-impulse-uploader --clean --info-file info.labels
-
-* Or, via the Edge Impulse Studio. Go to **Data acquisition > Upload data**.
+Ao longo de uma semana de curso, foi desenvolvido um projeto de Inteligência Artificial que identifica tumores usando modelos de raio-x cerebrais. O treinamento foi realizado com 101 imagens e a acurácia foi de 95.45%.
